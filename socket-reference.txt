@@ -1,0 +1,6 @@
+Setup Android Websocket Client & Spring Boot Websocket Server 
+https://www.pubnub.com/blog/java-websocket-programming-with-android-and-spring-boot/
+
+Angular Websocket client Setup
+https://indepth.dev/tutorials/angular/how-to-implement-websockets-in-angular-project
+
